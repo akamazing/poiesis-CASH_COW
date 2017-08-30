@@ -1,5 +1,6 @@
-# Poiesis: A Carpooling App
-> Short blurb about what your product does.
+# Poiesis: A carpooling app
+> A carpooling app for make middle school students lifes better.
+
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
