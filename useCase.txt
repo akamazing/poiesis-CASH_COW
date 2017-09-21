@@ -1,21 +1,21 @@
-##Actor:
+## Actor:
 1. Student
 2. Teacher
 3. Guardian
 
-##Hard goals:
+## Hard goals:
 
-####Student
+#### Student
 To reach school at time.
 
-####Teacher
+#### Teacher
 
 
-####Guardian
+#### Guardian
 
 
-##Activity:
+## Activity:
 
-##Soft goals:
+## Soft goals:
 
-##Resource
+## Resource
