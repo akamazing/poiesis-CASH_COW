@@ -1,58 +1,19 @@
-# Poiesis: A carpooling app
-> A carpooling app for make middle school students lifes better.
+# Requirements specification document for Poiesis
+
+**1. Introduction**
+There is a need of alternate methods of transport for school kids to reach school safe and on time. The proposed system in this document named ‘Poiesis’, is a carpooling app. It will help to satisfy the need of alternate methods of transport to school and facilitate kids to commute to-and-from school. 
+
+  **1.1 Purpose and scope**
+   The purpose of poiesis is to help middle school kids reach school on time and in a safe manner. Guardians will have right to request and cancel ride. The application will allow guardians to leave booking request for a particular date and time, for their kids. The volunteer drivers will receive the request. As per their convenience and preference, they can choose to provide ride. Kids will not be allowed to book or cancel ride themselves, they will be able to send request to their guardians to do it for them. Kids and guardians can also provide review about the drivers in poiesis, which will help to increase their reputation within the app. 
+   
+   It will be web-based application to make it easily accessible via internet. Volunteers, guardians, and kids can register by opening it in the browser. During registration poiesis will prefer guardians to do so first and their kids will be provided with the link to register. Only, the kids who registered through particular link send from the guardian’s account will be taken as kids belonging to that guardian.
+   
+   Scope of this application is limited to school students whose class schedule doesn’t match with the local school bus schedule. The importance of this application was realized when we were doing service learning with McMillan Magnet Middle School kids this spring. Student depended on school bus or their parents to reach school and to go back home.
+   
+   **1.2 Problem description**
+ 
 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
-
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
 
 ## About Us
 
