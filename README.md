@@ -20,6 +20,15 @@ There is a need of alternate methods of transport for school kids to reach schoo
      - 
      
 ### 2. System Context
+To create an accurate working system, having system context from various facets helps extensively. With greater understanding of these facets a better requirement specification document can be created. For Poiesis, we consider the following:
+  i. Subject facet
+  ii. Usage facet
+  iii. IT system facet
+  
+  **i. Subject facet**
+  Poiesis is a carpooling app for middle school children. It is going to be a web-based application. Also, the application is going to be interactive user application with the primary users being volunteers, guardians and school students.
+
+  
 
  
 
