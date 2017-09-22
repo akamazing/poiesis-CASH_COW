@@ -2,6 +2,8 @@
 
 As a student, I want to see the details of booked ride so that I know about it's arrival time and location.
 
+As a student, I want to request my Guardian to book a ride so that I can reach school on time.
+
 As a student, I want to get notification about the arrival time of my ride so that I can get ready on time.
 
 As a student, I want to rate my ride so that other students can book a fun ride.
