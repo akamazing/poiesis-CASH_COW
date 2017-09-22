@@ -14,9 +14,10 @@ There is a need of alternate methods of transport for school kids to reach schoo
    Student had to wake up early in the morning to catch school bus. Some student had their parents drop them to school, unfortunately they were dropped way to early, so the parents’ could reach for their work on time. After reaching school they had to keep waiting for hours for the class to begin. Also, while returning back home they had to walk almost an hour if the class got over before or after the bus schedule. This deprived them from sleep, prevented them from paying enough attention in class, sleepy and drowsy during the class hours and many other problems. It also increased the risk of falling prey to road accidents or getting abducted. As a member of society it is our responsibility to help kids reach school safely and in time. This application is an effort to achieve this goal. 
    
    **1.3 Glossary**
-     * Volunteer: Parents or teachers who register to provide ride to the kids
-     * Guardian: Parents, uncle, aunt or somebody who is responsible for well-being of kids
-     * 
+   
+     - Volunteer: Parents or teachers who register to provide ride to the kids
+     - Guardian: Parents, uncle, aunt or somebody who is responsible for well-being of kids
+     - 
      
 ### 2. System Context
 
