@@ -28,7 +28,7 @@ that can let students request for ride to school under the careful eyes of their
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
 |  Ensure student reach school / home on time |  Guardian desires that heir children reach school / home on time   | Hard Goal |
-|  Ensure safe ride    |    Guardian desires that their children have safe ride to and back home         | Soft Goal  |
+|  Ensure safe ride for their children    |    Guardian desires that their children have safe ride to and back home         | Soft Goal  |
 |  Register on app        | Guardian are required to register in app, so that they can book ride for their children           |  Task      |
 |  See notification   | In order for school students to reach school / home, guardian needs to check for notifications that may be related to ride confirmation or cancellation of the ride          |  Task  |    
 |  Request a ride  | In order for school students to reach school / home on time, guardian will request ride on behalf of their children           | Task |
