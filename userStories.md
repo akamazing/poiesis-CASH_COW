@@ -16,6 +16,8 @@ As a guardian, I want to get notification about the arrival time of my kid's rid
 
 As a guardian, I want to rate the volunteer so that others can see his profile.
 
+(From Ankit) As a guardian, I want to track the ride to know when my kid reaches the destination (school or home).
+
 As a volunteer, I want to list my car for sharing ride in order to help neighboring school students reach school safe.
 
 As a volunteer, I want to be able to select students to give them a ride.
