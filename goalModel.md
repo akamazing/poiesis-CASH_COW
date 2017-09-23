@@ -27,25 +27,25 @@ that can let students request for ride to school under the careful eyes of their
  
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
-|  Ensure student reach school / home on time |      | Hard Goal |
-|  Ensure safe ride    |             | Soft Goal  |
-|  Register on app        |              |  Task      |
-|  See notification   |           |  Task  |    
-|  Request a ride  |           | Task |
-|  Request to cancel ride   |          |  Task  |
+|  Ensure student reach school / home on time |  Guardian desires that heir children reach school / home on time   | Hard Goal |
+|  Ensure safe ride    |    Guardian desires that their children have safe ride to and back home         | Soft Goal  |
+|  Register on app        | Guardian are required to register in app, so that they can book ride for their children           |  Task      |
+|  See notification   | In order for school students to reach school / home, guardian needs to check for notifications that may be related to ride confirmation or cancellation of the ride          |  Task  |    
+|  Request a ride  | In order for school students to reach school / home on time, guardian will request ride on behalf of their children           | Task |
+|  Request to cancel ride   | Guardian has an option of cancelling the ride on behalf of their children          |  Task  |
 
 **Volunteer:**
 
 
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
-|  Drive school students to school / home |    | Hard Goal |
-|  Comfortable ride          |           | Soft Goal|
-|  Make ride a fun experience|           | Soft Goal |
-|  Build reputation         |            | Soft Goal |
-|  Register on app        |              |  Task      |
-|  See notification         |            | Task    |   
-|  Safety of school students|            | Task |
+|  Drive school students to school / home |  volunteer desires to drive school student to school / home so that they can reach school on time    | Hard Goal |
+|  Make ride comfortable          | Volunteer desires to make ride comfortable for students by keeping the car in good condition eg: proper seats, good ventilation | Soft Goal|
+|  Make ride a fun experience| Volunteer desires to make ride entertaining and fun for school kids so they are motivated to this service | Soft Goal |
+|  Build reputation         |  Volunteer desires to build a good reputation.        | Soft Goal |
+|  Register on app        |  Volunteer requires to register to provide their services            |  Task     |
+|  See notification        |   Volunteer requires to see notifications in order to keep updated.        | Task    |   
+|  Safety of school students|  volunteer follows all safe practises while driving, such as wearing a seat belt and ensure that school students wear seat belts         | Task |
 |  Cancel accepted ride              |    Volunteer has an option of cancelling the accepted ride request      | Task  |
 |  Accept ride request             |      In order to drive school students to school / home, volunteer must be willing to accept ride request there are in the app     | Task   |
  
