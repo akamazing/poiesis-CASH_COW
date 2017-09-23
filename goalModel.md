@@ -46,6 +46,6 @@ that can let students request for ride to school under the careful eyes of their
 |  Pleasant Experience    |         | Soft Goal    
 |  See Notification   |           |  Task  |    
 |  Request a ride   |           |   Task |
-|  Request to cancel ride   |          |  Task  |
+|  Cancel ride   |          |  Task  |
 
 
