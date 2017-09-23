@@ -32,7 +32,7 @@ that can let students request for ride to school under the careful eyes of their
 |  Register on app        | Guardian are required to register in app, so that they can book ride for their children           |  Task      |
 |  See notification   | In order for school students to reach school / home, guardian needs to check for notifications that may be related to ride confirmation or cancellation of the ride          |  Task  |    
 |  Request a ride  | In order for school students to reach school / home on time, guardian will request ride on behalf of their children           | Task |
-|  Request to cancel ride   | Guardian has an option of cancelling the ride on behalf of their children          |  Task  |
+|  Cancel ride  | Guardian has an option of cancelling the ride on behalf of their children          |  Task  |
 
 **Volunteer:**
 
