@@ -39,7 +39,7 @@ that can let students request for ride to school under the careful eyes of their
 
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
-|  Drive school students to School / Home |    | Hard Goal |
+|  Drive school students to school / home |    | Hard Goal |
 |  Comfortable ride          |           | Soft Goal|
 |  Make ride a fun experience|           | Soft Goal |
 |  Build reputation         |            | Soft Goal |
