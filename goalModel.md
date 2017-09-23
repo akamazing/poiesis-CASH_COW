@@ -46,7 +46,7 @@ that can let students request for ride to school under the careful eyes of their
 |  Register on app        |              |  Task      |
 |  See notification         |            | Task    |   
 |  Safety of school students|            | Task |
-|  Cancel accepted ride              |            | Task  |
-|  Accept ride request             |            | Task   |
+|  Cancel accepted ride              |    Volunteer has an option of cancelling the accepted ride request      | Task  |
+|  Accept ride request             |      In order to drive school students to school / home, volunteer must be willing to accept ride request there are in the app     | Task   |
  
 
