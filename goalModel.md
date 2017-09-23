@@ -11,16 +11,17 @@ that can let students request for ride to school under the careful eyes of their
  
 **Student:**
 
-
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
 |  Reach school / home on time   |              | Hard Goal  |
 |  Get ready on time      |              | Hard Goal  |
 |  Comfortable ride       |              | Soft Goal  |
 |  Pleasant experience    |              | Soft Goal  |  
-|  See notification       |              |  Task      |    
+|  Register on app        |              |  Task      |
+|  See notification       |              |  Task      |  
 |  Request a ride         |              |  Task      |
 |  Request to cancel ride |              |  Task      |
+
 
 **Guardian:**
  
@@ -28,6 +29,7 @@ that can let students request for ride to school under the careful eyes of their
 |:-----------------------:|:------------:|:--------:|
 |  Ensure student reach school / home on time |      | Hard Goal |
 |  Ensure safe ride    |             | Soft Goal  |
+|  Register on app        |              |  Task      |
 |  See notification   |           |  Task  |    
 |  Request a ride  |           | Task |
 |  Request to cancel ride   |          |  Task  |
@@ -41,6 +43,7 @@ that can let students request for ride to school under the careful eyes of their
 |  Comfortable ride          |           | Soft Goal|
 |  Make ride a fun experience|           | Soft Goal |
 |  Build reputation         |            | Soft Goal |
+|  Register on app        |              |  Task      |
 |  See notification         |            | Task    |   
 |  Safety of school students|            | Task |
 |  Cancel accepted ride              |            | Task  |
