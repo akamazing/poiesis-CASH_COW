@@ -14,25 +14,22 @@ that can let students request for ride to school under the careful eyes of their
 
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
-|  Reach school on time   |              | Hard Goal  |
-|  Get ready on time      |              | Hard Goal   |
+|  Reach school / home on time   |              | Hard Goal  |
+|  Get ready on time      |              | Hard Goal  |
 |  Comfortable ride       |              | Soft Goal  |
-|  Pleasant Experience    |         | Soft Goal    
-|  See Notification   |           |  Task  |    
-|  Request a ride   |           |   Task |
-|  Request to cancel ride   |          |  Task  |
+|  Pleasant experience    |              | Soft Goal  |  
+|  See notification       |              |  Task      |    
+|  Request a ride         |              |  Task      |
+|  Request to cancel ride |              |  Task      |
 
 **Guardian:**
-
  
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
-|  Drive Students to school / home |              | Hard Goal  |
-|  Get ready on time      |              | Hard Goal   |
-|  Comfortable ride       |              | Soft Goal  |
-|  Pleasant Experience    |         | Soft Goal    
-|  See Notification   |           |  Task  |    
-|  Request a ride   |           |   Task |
+|  Ensure student reach school / home on time |      | Hard Goal |
+|  Ensure safe ride    |             | Soft Goal  |
+|  See notification   |           |  Task  |    
+|  Request a ride  |           | Task |
 |  Request to cancel ride   |          |  Task  |
 
 **Volunteer:**
@@ -40,12 +37,13 @@ that can let students request for ride to school under the careful eyes of their
 
 |Nodes                    |  Description | Type     |
 |:-----------------------:|:------------:|:--------:|
-|  Reach school on time   |              | Hard Goal  |
-|  Get ready on time      |              | Hard Goal   |
-|  Comfortable ride       |              | Soft Goal  |
-|  Pleasant Experience    |         | Soft Goal    
-|  See Notification   |           |  Task  |    
-|  Request a ride   |           |   Task |
-|  Cancel ride   |          |  Task  |
-
+|  Drive school students to School / Home |    | Hard Goal |
+|  Comfortable ride          |           | Soft Goal|
+|  Make ride a fun experience|           | Soft Goal |
+|  Build reputation         |            | Soft Goal |
+|  See notification         |            | Task    |   
+|  Safety of school students|            | Task |
+|  Cancel accepted ride              |            | Task  |
+|  Accept ride request             |            | Task   |
+ 
 
