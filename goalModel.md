@@ -56,5 +56,5 @@ that can let students request for ride to school under the careful eyes of their
 
 
 ## Goal Model
-![Goal Model](https://github.com/IsaacShrestha/poiesis-CASH_COW/blob/requirements/goalmodel.PNG)
+![Goal Model](https://github.com/IsaacShrestha/poiesis-CASH_COW/blob/requirements/images/goalmodel.PNG)
 
