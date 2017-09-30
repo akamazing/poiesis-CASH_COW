@@ -1,86 +1,50 @@
-# Poiesis: A carpooling app
-> A carpooling app for make middle school students lifes better.
+# poiesis-frontend
 
+This README outlines the details of collaborating on this Ember application.
+A short introduction of this app could easily go here.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+## Prerequisites
 
-One to two paragraph statement about your product and what it does.
+You will need the following things properly installed on your computer.
 
-![](header.png)
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/) (with NPM)
+* [Ember CLI](https://ember-cli.com/)
+* [Google Chrome](https://google.com/chrome/)
 
 ## Installation
 
-OS X & Linux:
+* `git clone <repository-url>` this repository
+* `cd poiesis-frontend`
+* `npm install`
 
-```sh
-npm install my-crazy-module --save
-```
+## Running / Development
 
-Windows:
+* `ember serve`
+* Visit your app at [http://localhost:4200](http://localhost:4200).
 
-```sh
-edit autoexec.bat
-```
+### Code Generators
 
-## Usage example
+Make use of the many generators for code, try `ember help generate` for more details
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+### Running Tests
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+* `ember test`
+* `ember test --server`
 
-## Development setup
+### Building
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+* `ember build` (development)
+* `ember build --environment production` (production)
 
-```sh
-make install
-npm test
-```
+### Deploying
 
-## Release History
+Specify what it takes to deploy your app.
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+## Further Reading / Useful Links
 
-## About Us
-
-Abhishek Kumar [@Github](https://github.com/akamazing) – abhishekkumar@unomaha.edu
-
-Akshay Kale [@Github](https://github.com/kaleoyster)–  akale@unomaha.edu
-
-Isaac Shrestha [@Github](https://github.com/IsaacShrestha) – ishrestha@unomaha.edu
-
-Ankit Chandrakar [@Github](https://github.com/kaleoyster) - achandrakar@unomaha.edu
-
-## Meta
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-
-## Contributing
-
-1. Fork it (<https://github.com/IsaacShrestha/poiesis/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
-
+* [ember.js](https://emberjs.com/)
+* [ember-cli](https://ember-cli.com/)
+* Development Browser Extensions
+  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
