@@ -53,5 +53,8 @@ that can let students request for ride to school under the careful eyes of their
 |  Follow speed limit      | In order to make ride safe for that school students, volunteer requires to follow speed limit | Task |
 |  Cancel accepted ride              |    Volunteer has an option of cancelling the accepted ride request      | Task  |
 |  Accept ride request             |      In order to drive school students to school / home, volunteer must be willing to accept ride request there are in the app     | Task   |
- 
+
+
+## Goal Model
+![Goal Model](https://github.com/IsaacShrestha/poiesis-CASH_COW/blob/requirements/goalmodel.PNG)
 
